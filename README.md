@@ -5,7 +5,7 @@
 
 A list of repos and their current star count, updated live with shields.io badges.
 
-| Repository | Stars |
+| logger | Stars |
 |------------|-------|
 | [amoghe/distillog](https://github.com/amoghe/distillog) | ![Stars](https://img.shields.io/github/stars/amoghe/distillog?style=social) |
 | [kpango/glg](https://github.com/kpango/glg) | ![Stars](https://img.shields.io/github/stars/kpango/glg?style=social) |
@@ -71,7 +71,7 @@ A list of repos and their current star count, updated live with shields.io badge
 | [edoger/zkits-logger](https://github.com/edoger/zkits-logger) | ![Stars](https://img.shields.io/github/stars/edoger/zkits-logger?style=social) |
 | [nkmr-jp/zl](https://github.com/nkmr-jp/zl) | ![Stars](https://img.shields.io/github/stars/nkmr-jp/zl?style=social) |
 
-| Repository | Stars |
+| config | Stars |
 | --- | --- |
 | [aconfig](https://github.com/cristalhq/aconfig) | ![Stars](https://img.shields.io/github/stars/cristalhq/aconfig?style=social) |
 | [bcl](https://github.com/wkhere/bcl) | ![Stars](https://img.shields.io/github/stars/wkhere/bcl?style=social) |
@@ -133,3 +133,33 @@ A list of repos and their current star count, updated live with shields.io badge
 | [xdg](https://github.com/adrg/xdg) | ![Stars](https://img.shields.io/github/stars/adrg/xdg?style=social) |
 | [xdg](https://github.com/OpenPeeDeeP/xdg) | ![Stars](https://img.shields.io/github/stars/OpenPeeDeeP/xdg?style=social) |
 | [yamagiconf](https://github.com/romshark/yamagiconf) | ![Stars](https://img.shields.io/github/stars/romshark/yamagiconf?style=social) |
+
+| router | Stars |
+| --- | --- |
+| [alien](https://github.com/gernest/alien) | ![Stars](https://img.shields.io/github/stars/gernest/alien?style=social) |
+| [bellt](https://github.com/GuilhermeCaruso/bellt) | ![Stars](https://img.shields.io/github/stars/GuilhermeCaruso/bellt?style=social) |
+| [Bone](https://github.com/go-zoo/bone) | ![Stars](https://img.shields.io/github/stars/go-zoo/bone?style=social) |
+| [Bxog](https://github.com/claygod/Bxog) | ![Stars](https://img.shields.io/github/stars/claygod/Bxog?style=social) |
+| [chi](https://github.com/go-chi/chi) | ![Stars](https://img.shields.io/github/stars/go-chi/chi?style=social) |
+| [fasthttprouter](https://github.com/buaazp/fasthttprouter) | ![Stars](https://img.shields.io/github/stars/buaazp/fasthttprouter?style=social) |
+| [FastRouter](https://github.com/razonyang/fastrouter) | ![Stars](https://img.shields.io/github/stars/razonyang/fastrouter?style=social) |
+| [goblin](https://github.com/bmf-san/goblin) | ![Stars](https://img.shields.io/github/stars/bmf-san/goblin?style=social) |
+| [gocraft/web](https://github.com/gocraft/web) | ![Stars](https://img.shields.io/github/stars/gocraft/web?style=social) |
+| [Goji](https://github.com/goji/goji) | ![Stars](https://img.shields.io/github/stars/goji/goji?style=social) |
+| [GoLobby/Router](https://github.com/golobby/router) | ![Stars](https://img.shields.io/github/stars/golobby/router?style=social) |
+| [goroute](https://github.com/goroute/route) | ![Stars](https://img.shields.io/github/stars/goroute/route?style=social) |
+| [GoRouter](https://github.com/vardius/gorouter) | ![Stars](https://img.shields.io/github/stars/vardius/gorouter?style=social) |
+| [gowww/router](https://github.com/gowww/router) | ![Stars](https://img.shields.io/github/stars/gowww/router?style=social) |
+| [httprouter](https://github.com/julienschmidt/httprouter) | ![Stars](https://img.shields.io/github/stars/julienschmidt/httprouter?style=social) |
+| [httptreemux](https://github.com/dimfeld/httptreemux) | ![Stars](https://img.shields.io/github/stars/dimfeld/httptreemux?style=social) |
+| [lars](https://github.com/go-playground/lars) | ![Stars](https://img.shields.io/github/stars/go-playground/lars?style=social) |
+| [mux](https://github.com/gorilla/mux) | ![Stars](https://img.shields.io/github/stars/gorilla/mux?style=social) |
+| [nchi](https://github.com/muir/nchi) | ![Stars](https://img.shields.io/github/stars/muir/nchi?style=social) |
+| [ngamux](https://github.com/ngamux/ngamux) | ![Stars](https://img.shields.io/github/stars/ngamux/ngamux?style=social) |
+| [ozzo-routing](https://github.com/go-ozzo/ozzo-routing) | ![Stars](https://img.shields.io/github/stars/go-ozzo/ozzo-routing?style=social) |
+| [pure](https://github.com/go-playground/pure) | ![Stars](https://img.shields.io/github/stars/go-playground/pure?style=social) |
+| [Siesta](https://github.com/VividCortex/siesta) | ![Stars](https://img.shields.io/github/stars/VividCortex/siesta?style=social) |
+| [vestigo](https://github.com/husobee/vestigo) | ![Stars](https://img.shields.io/github/stars/husobee/vestigo?style=social) |
+| [violetear](https://github.com/nbari/violetear) | ![Stars](https://img.shields.io/github/stars/nbari/violetear?style=social) |
+| [xmux](https://github.com/rs/xmux) | ![Stars](https://img.shields.io/github/stars/rs/xmux?style=social) |
+| [xujiajun/gorouter](https://github.com/xujiajun/gorouter) | ![Stars](https://img.shields.io/github/stars/xujiajun/gorouter?style=social) |
