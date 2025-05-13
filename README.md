@@ -163,3 +163,21 @@ A list of repos and their current star count, updated live with shields.io badge
 | [violetear](https://github.com/nbari/violetear) | ![Stars](https://img.shields.io/github/stars/nbari/violetear?style=social) |
 | [xmux](https://github.com/rs/xmux) | ![Stars](https://img.shields.io/github/stars/rs/xmux?style=social) |
 | [xujiajun/gorouter](https://github.com/xujiajun/gorouter) | ![Stars](https://img.shields.io/github/stars/xujiajun/gorouter?style=social) |
+
+| benchmark | Stars |
+| --- | --- |
+| [autobench](https://github.com/davecheney/autobench) | ![Stars](https://img.shields.io/github/stars/davecheney/autobench?style=social) |
+| [go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) | ![Stars](https://img.shields.io/github/stars/mrLSD/go-benchmark-app?style=social) |
+| [go-benchmarks](https://github.com/tylertreat/go-benchmarks) | ![Stars](https://img.shields.io/github/stars/tylertreat/go-benchmarks?style=social) |
+| [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | ![Stars](https://img.shields.io/github/stars/julienschmidt/go-http-routing-benchmark?style=social) |
+| [go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) | ![Stars](https://img.shields.io/github/stars/zerosnake0/go-json-benchmark?style=social) |
+| [go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) | ![Stars](https://img.shields.io/github/stars/nikolaydubina/go-ml-benchmarks?style=social) |
+| [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | ![Stars](https://img.shields.io/github/stars/smallnest/go-web-framework-benchmark?style=social) |
+| [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | ![Stars](https://img.shields.io/github/stars/alecthomas/go_serialization_benchmarks?style=social) |
+| [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | ![Stars](https://img.shields.io/github/stars/PuerkitoBio/gocostmodel?style=social) |
+| [golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | ![Stars](https://img.shields.io/github/stars/SimonWaldherr/golang-benchmarks?style=social) |
+| [golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) | ![Stars](https://img.shields.io/github/stars/tyler-smith/golang-sql-benchmark?style=social) |
+| [gospeed](https://github.com/feyeleanor/GoSpeed) | ![Stars](https://img.shields.io/github/stars/feyeleanor/GoSpeed?style=social) |
+| [kvbench](https://github.com/jimrobinson/kvbench) | ![Stars](https://img.shields.io/github/stars/jimrobinson/kvbench?style=social) |
+| [skynet](https://github.com/atemerev/skynet) | ![Stars](https://img.shields.io/github/stars/atemerev/skynet?style=social) |
+| [speedtest-resize](https://github.com/fawick/speedtest-resize) | ![Stars](https://img.shields.io/github/stars/fawick/speedtest-resize?style=social) |
